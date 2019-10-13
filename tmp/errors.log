@@ -1,0 +1,15 @@
+[2019-10-13 20:58:53] Error text: No connection to the database | 
+            File: /var/www/vendor/testforsok/core/Db.php | Line: 23 
+=====================
+[2019-10-13 20:58:54] Error text: No connection to the database | 
+            File: /var/www/vendor/testforsok/core/Db.php | Line: 23 
+=====================
+[2019-10-13 20:58:54] Error text: No connection to the database | 
+            File: /var/www/vendor/testforsok/core/Db.php | Line: 23 
+=====================
+[2019-10-13 20:58:55] Error text: No connection to the database | 
+            File: /var/www/vendor/testforsok/core/Db.php | Line: 23 
+=====================
+[2019-10-13 21:03:15] Error text: app\controllers\CategoryController::viewdfsAction method not found! | 
+            File: /var/www/vendor/testforsok/core/Router.php | Line: 72 
+=====================

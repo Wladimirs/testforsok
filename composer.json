@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "psr-4": {
+      "testforsok\\": "vendor/testforsok/core",
+      "app\\": "app"
+    }
+  },
+  "require": {
+    "gabordemooij/redbean": "dev-master",
+    "vlucas/valitron": "^1.4"
+  }
+}
